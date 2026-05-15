@@ -182,7 +182,7 @@ vidyarthibus-default-rtdb/
 
 ## 👩‍💻 Developer
 
-**Shashmitha V**
+**Adwaidh K Nambiar**
 Srinivas Institute of Technology, Mangaluru
 MindMatrix VTU Internship Programme — April 2026
 
